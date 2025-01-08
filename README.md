@@ -22,7 +22,7 @@
 ### 🌟 About Me
 
 - 🌱 I’m currently learning **Data Science, Advanced Analytics, and Python for AI**
-- 👯 I’m looking to collaborate on **projects related to quantum physics, life stories, and data visualization**
+- 👯 I’m looking to collaborate on **projects related to data analysis, data science, quantum physics, life stories**
 - 📝 I write on [Medium](https://medium.com/@manishka.gautam03) where I share thoughts on spirituality, personal growth, and humor
 - 🎥 I share my voice and ideas on my [YouTube Channel: Ethereal Symphony](https://youtube.com/@EtherealSymphony)
 - 💬 Ask me about **SQL, Power BI, and weaving stories into data insights**
@@ -44,6 +44,9 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkaa&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkaa&theme=radical" alt="GitHub Summary">
 </p>
 
 ---
