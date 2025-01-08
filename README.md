@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github.com/manishkaa/Manishka/blob/main/image/Cartoon_Banner_Tech_Spirituality.jpg" 
        alt="Medium Articles Banner" 
-       style="width: 100px; height: 300px; border-radius: 10px;">
+       style="width: 1000px; height: 300px; border-radius: 10px;">
 </p>
 
 <!-- BLOG-POST-LIST:START -->
