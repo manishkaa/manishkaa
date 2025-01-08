@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manishka Gautam</h1>
-<h3 align="center">A passionate data enthusiast exploring analytics, technology, and storytelling</h3>
+<h3 align="center">A passionate data enthusiast exploring the intersection of analytics, technology, and storytelling</h3>
 
 <p align="center">
   <a href="https://github.com/manishkaa?tab=followers">
@@ -18,13 +18,15 @@
 
 ---
 
-<img src="https://via.placeholder.com/1000x200?text=Data+Enthusiast+%7C+Storyteller+%7C+Technophile" alt="Banner Image" style="width: 100%; border-radius: 10px;">
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300?text=Data+Enthusiast+%7C+Storyteller+%7C+Technophile" alt="Banner Image" style="width: 100%; border-radius: 10px;">
+</p>
 
 ---
 
 ### 🌟 About Me
 
-<img align="right" src="https://via.placeholder.com/300x300?text=About+Me" alt="About Me Image" style="border-radius: 10px; margin: 10px;">
+<img align="right" src="https://via.placeholder.com/250x250?text=About+Me" alt="About Me Image" style="border-radius: 50%; margin: 10px;">
 
 - 🌱 I’m currently learning **Data Science, Advanced Analytics, and Python for AI**
 - 👯 I’m looking to collaborate on **projects related to data analysis, data science, and creative storytelling**
@@ -36,24 +38,38 @@
 
 ### 📚 Latest Medium Articles
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=Medium+Articles" alt="Medium Articles Banner" style="width: 100%; border-radius: 10px;">
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Medium+Articles" alt="Medium Articles Banner" style="width: 100%; border-radius: 10px;">
+  🌟 Discover more on [Medium](https://medium.com/@manishka.gautam03) 🌟
 </p>
 
 ---
 
 ### 🛠️ Skills & Tools
 
+#### 🔧 Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
+</p>
+
+#### 🌟 Other Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Writing-FF5722?style=for-the-badge&logo=readme&logoColor=white" alt="Writing">
+  <img src="https://img.shields.io/badge/Storytelling-007ACC?style=for-the-badge&logo=magic&logoColor=white" alt="Storytelling">
+  <img src="https://img.shields.io/badge/Public%20Speaking-7952B3?style=for-the-badge&logo=megaphone&logoColor=white" alt="Public Speaking">
+  <img src="https://img.shields.io/badge/Content%20Creation-F56040?style=for-the-badge&logo=creative&logoColor=white" alt="Content Creation">
 </p>
 
 ---
