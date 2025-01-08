@@ -58,8 +58,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/manishkagautam"><img src="https://img.shields.io/badge/LinkedIn-Manishka-blue?style=flat&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/manishka-gautam-1824a1121/"><img src="https://img.shields.io/badge/LinkedIn-Manishka-blue?style=flat&logo=linkedin"></a>
   <a href="https://medium.com/@manishka.gautam03"><img src="https://img.shields.io/badge/Medium-Manishka-orange?style=flat&logo=medium"></a>
   <a href="https://x.com/manishkagautam"><img src="https://img.shields.io/badge/Twitter-@manishkagautam-blue?style=flat&logo=twitter"></a>
-  <a href="mailto:manishka.gautam@example.com"><img src="https://img.shields.io/badge/Email-manishka.gautam@example.com-red?style=flat&logo=gmail"></a>
+  <a href="mailto:manishka.gautam03@gmail.com"><img src="https://img.shields.io/badge/Email-manishka.gautam03@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
