@@ -53,8 +53,9 @@
 
 ### 🎨 Latest Medium Articles
 
-<!-- Medium Integration -->
-- 📝 Coming soon! 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
