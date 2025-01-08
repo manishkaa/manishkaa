@@ -8,34 +8,22 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Fetch Latest Medium Articles
-        id: fetch_articles
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@manishka.gautam03"
-
-      - name: Limit Articles to the Latest 3
-        id: filter_articles
-        run: |
-          # Parse the articles and limit to the latest 3
-          articles=$(echo "${{ steps.fetch_articles.outputs.articles }}" | jq '.[0:3]')
-          echo "LATEST_ARTICLES=${articles}" >> $GITHUB_ENV
-
-      - name: Format Articles with Images
-        id: format_articles
-        run: |
-          # Format the latest articles with images in markdown
-          echo "## Latest Articles" > README.md
-          echo "${{ env.LATEST_ARTICLES }}" | jq -r '.[] | "- [\(.title)](\(.link))\n  ![\(.title)](\(.image_url))"' >> README.md
+          max_post_count: 3
+          show_images: true # This is a hypothetical input; customization required in action
 
       - name: Commit Updated README
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Updated README with latest Medium articles and images" || echo "No changes to commit"
+          git commit -m "Updated README with latest Medium articles" || echo "No changes to commit"
           git push || echo "Nothing to push"
