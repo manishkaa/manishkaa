@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Fetch Latest Medium Articles
-        uses: gautamkrishnar/blog-post-workflow@v1.0.0
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@manishka.gautam03"
 
