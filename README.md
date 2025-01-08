@@ -28,7 +28,7 @@
 
 <img align="right" src="https://github.com/manishkaa/Manishka/blob/main/image/manishka_gautam.jpg" 
      alt="About Me Image" 
-     style="border-radius: 50%; margin: 10px; width: 250px; height: 250px; object-fit: cover;">
+     style="border-radius: 50%; margin: 10px; width: 200px; height: 200px; object-fit: cover;">
 
 - 🌱 I’m currently learning **Data Science, Advanced Analytics, and Python for AI**
 - 👯 I’m looking to collaborate on **projects related to data analysis, data science, and creative storytelling**
