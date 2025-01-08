@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Manishka Gautam</h1>
 <h3 align="center">A passionate data enthusiast exploring the intersection of analytics, technology, and storytelling</h3>
 
@@ -53,14 +52,16 @@
 
 ### 🎨 Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [Lack of Self- Confidence or Lack of Faith in the Creator? &lpar;It’s Godfidence!&rpar;](https://medium.com/@manishka.gautam03/lack-of-self-confidence-or-lack-of-faith-in-the-creator-its-godfidence-e938cdbda71b?source=rss-8e20724c85dd------2)
-- [“Unmasking Pinocchio: The Price of Living a Lie” A Journey to Authenticity](https://medium.com/@manishka.gautam03/unmasking-pinocchio-the-price-of-living-a-lie-a-journey-to-authenticity-6569f30d4f8b?source=rss-8e20724c85dd------2)
-- [She Knows! She Knows! Satirical Tale of Awakening, Labels, and Life’s Drama](https://medium.com/@manishka.gautam03/she-knows-she-knows-satirical-tale-of-awakening-labels-and-lifes-drama-0c4aa76eb8d4?source=rss-8e20724c85dd------2)
-- [Science of Relationship!](https://medium.com/@manishka.gautam03/science-of-relationship-906a8e98ca1c?source=rss-8e20724c85dd------2)
-- [“TCM”-A clinical encounter with Traditional Chinese Medicine](https://medium.com/@manishka.gautam03/tcm-a-clinical-encounter-with-traditional-chinese-medicine-d677874e917?source=rss-8e20724c85dd------2)
-<!-- BLOG-POST-LIST:END -->
+## Latest Articles
 
+- [Lack of Self-Confidence or Lack of Faith in the Creator? (It’s Godfidence!)](https://medium.com/@manishka.gautam03/lack-of-self-confidence-or-lack-of-faith-in-the-creator-its-godfidence-e938cdbda71b?source=rss-8e20724c85dd------2)  
+  ![Lack of Self-Confidence or Lack of Faith in the Creator? (It’s Godfidence!)](https://cdn-images-1.medium.com/max/800/1*ZfG1zXkhG3djf6lS9c7bcA.png)
+
+- [“Unmasking Pinocchio: The Price of Living a Lie” A Journey to Authenticity](https://medium.com/@manishka.gautam03/unmasking-pinocchio-the-price-of-living-a-lie-a-journey-to-authenticity-6569f30d4f8b?source=rss-8e20724c85dd------2)  
+  ![“Unmasking Pinocchio: The Price of Living a Lie” A Journey to Authenticity](https://cdn-images-1.medium.com/max/800/1*TfIfRMmjL9Sz9aQmsn0Qqg.png)
+
+- [She Knows! She Knows! Satirical Tale of Awakening, Labels, and Life’s Drama](https://medium.com/@manishka.gautam03/she-knows-she-knows-satirical-tale-of-awakening-labels-and-lifes-drama-0c4aa76eb8d4?source=rss-8e20724c85dd------2)  
+  ![She Knows! She Knows! Satirical Tale of Awakening, Labels, and Life’s Drama](https://cdn-images-1.medium.com/max/800/1*UgJz3BczNGfhjKn0fJY8uw.png)
 
 ---
 
