@@ -19,18 +19,18 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Data+Enthusiast+%7C+Storyteller+%7C+Technophile" alt="Banner Image" style="width: 100%; border-radius: 10px;">
+  <img src="https://github.com/manishkaa/Manishka/blob/main/image/1500x500.jpeg" alt="Banner Image" style="width: 100%; border-radius: 10px;">
 </p>
 
 ---
 
 ### 🌟 About Me
 
-<img align="right" src="https://via.placeholder.com/250x250?text=About+Me" alt="About Me Image" style="border-radius: 50%; margin: 10px;">
+<img align="right" src="https://github.com/manishkaa/Manishka/blob/main/image/manishka_gautam.jpg" alt="About Me Image" style="border-radius: 50%; margin: 10px;">
 
 - 🌱 I’m currently learning **Data Science, Advanced Analytics, and Python for AI**
 - 👯 I’m looking to collaborate on **projects related to data analysis, data science, and creative storytelling**
-- 📝 I write on [Medium](https://medium.com/@manishka.gautam03) about spirituality, personal growth, and humor
+- 🖍 I write on [Medium](https://medium.com/@manishka.gautam03) about spirituality, personal growth, and humor
 - 🎥 My YouTube channel [Ethereal Symphony](https://youtube.com/@EtherealSymphony) is my creative outlet for voice and ideas
 - 💬 Ask me about **SQL, Power BI, and weaving stories into data insights**
 
@@ -43,7 +43,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lack of Self- Confidence or Lack of Faith in the Creator? &lpar;It’s Godfidence!&rpar;](https://medium.com/@manishka.gautam03/lack-of-self-confidence-or-lack-of-faith-in-the-creator-its-godfidence-e938cdbda71b?source=rss-8e20724c85dd------2)
+- [Lack of Self- Confidence or Lack of Faith in the Creator? (It’s Godfidence!)](https://medium.com/@manishka.gautam03/lack-of-self-confidence-or-lack-of-faith-in-the-creator-its-godfidence-e938cdbda71b?source=rss-8e20724c85dd------2)
 - [“Unmasking Pinocchio: The Price of Living a Lie” A Journey to Authenticity](https://medium.com/@manishka.gautam03/unmasking-pinocchio-the-price-of-living-a-lie-a-journey-to-authenticity-6569f30d4f8b?source=rss-8e20724c85dd------2)
 - [She Knows! She Knows! Satirical Tale of Awakening, Labels, and Life’s Drama](https://medium.com/@manishka.gautam03/she-knows-she-knows-satirical-tale-of-awakening-labels-and-lifes-drama-0c4aa76eb8d4?source=rss-8e20724c85dd------2)
 <!-- BLOG-POST-LIST:END -->
