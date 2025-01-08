@@ -1,0 +1,26 @@
+name: Update README with Medium Articles
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour (adjust as needed)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Latest Medium Articles
+        uses: gautamkrishnar/blog-post-workflow@v1.0.0
+        with:
+          feed_list: "https://medium.com/feed/@manishka.gautam03"
+
+      - name: Commit Updated README
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Updated README with latest Medium articles" || exit 0
+          git push
