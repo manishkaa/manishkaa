@@ -13,9 +13,29 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Fetch Latest Medium Articles
+        id: fetch_articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@manishka.gautam03"
+
+      - name: Limit Articles to the Latest 3
+        id: filter_articles
+        run: |
+          # Parse the articles and limit to the latest 3
+          articles=$(echo "${{ steps.fetch_articles.outputs.articles }}" | jq '.[0:3]')
+          echo "LATEST_ARTICLES=${articles}" >> $GITHUB_ENV
+
+      - name: Update README with Articles
+        run: |
+          # Prepare the README content, including article titles and images
+          echo "Updating README with the latest articles"
+          echo "${{ env.LATEST_ARTICLES }}"
+          # Generate markdown for the latest three articles (titles + images)
+          # Insert this content into your README template (ensure you are extracting image URLs from articles if possible)
+          # Use jq to format articles correctly, including titles and images
+          # Example to create a markdown list:
+          echo "## Latest Articles" >> README.md
+          echo "${LATEST_ARTICLES}" | jq -r '.[] | "- [\(.title)](\(.link)) ![\(.image)](\(.image))"' >> README.md
 
       - name: Commit Updated README
         run: |
