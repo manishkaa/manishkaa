@@ -2,7 +2,7 @@ name: Update README with Medium Articles
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour (adjust as needed)
+    - cron: '0 * * * *' # Every hour
   workflow_dispatch:
 
 jobs:
@@ -22,5 +22,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Updated README with latest Medium articles" || exit 0
-          git push
+          git commit -m "Updated README with latest Medium articles" || echo "No changes to commit"
+          git push || echo "Nothing to push"
