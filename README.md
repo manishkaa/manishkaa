@@ -41,7 +41,9 @@
 ### 📚 Latest Medium Articles
 
 <p align="center">
-  <img src="https://github.com/manishkaa/Manishka/blob/main/image/Cartoon_Banner_Tech_Spirituality.jpg" alt="Medium Articles Banner" style="width: 100%; border-radius: 10px;">
+  <img src="https://github.com/manishkaa/Manishka/blob/main/image/Cartoon_Banner_Tech_Spirituality.jpg" 
+       alt="Medium Articles Banner" 
+       style="width: 1500px; height: 500px; border-radius: 10px;">
 </p>
 
 <!-- BLOG-POST-LIST:START -->
