@@ -84,8 +84,8 @@
 ### 🖼️ Projects
 
 <p align="center">
-  <a href="#">
-    <img src="https://via.placeholder.com/400x200?text=Your+Project+1" alt="Project 1" style="border-radius: 10px; margin: 10px;">
+  <a href="https://github.com/manishkaa/Google-Data-Analytics-Capstone-Case-Study">
+    <img src="https://postimage.me/images/2025/05/07/ChatGPT-Image-May-7-2025-11_36_00-PM.png" alt="Project 1" width="200" height="200" style="border-radius: 10px; margin: 10px;">
   </a>
   <a href="#">
     <img src="https://via.placeholder.com/400x200?text=Your+Project+2" alt="Project 2" style="border-radius: 10px; margin: 10px;">
