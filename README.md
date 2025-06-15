@@ -47,9 +47,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [“When a Soul Collapses: The Unseen Cost of Prolonged Trauma on Women”](https://medium.com/@manishka.gautam03/when-a-soul-collapses-the-unseen-cost-of-prolonged-trauma-on-women-206f755d6146?source=rss-8e20724c85dd------2)
 - [Are You Love? Redefining What It Means to Truly Embody Love](https://medium.com/@manishka.gautam03/are-you-love-redefining-what-it-means-to-truly-embody-love-292e917b205b?source=rss-8e20724c85dd------2)
 - [Lack of Self- Confidence or Lack of Faith in the Creator? &lpar;It’s Godfidence!&rpar;](https://medium.com/@manishka.gautam03/lack-of-self-confidence-or-lack-of-faith-in-the-creator-its-godfidence-e938cdbda71b?source=rss-8e20724c85dd------2)
-- [“Unmasking Pinocchio: The Price of Living a Lie” A Journey to Authenticity](https://medium.com/@manishka.gautam03/unmasking-pinocchio-the-price-of-living-a-lie-a-journey-to-authenticity-6569f30d4f8b?source=rss-8e20724c85dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
